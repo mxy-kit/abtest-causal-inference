@@ -12,7 +12,7 @@ Applied **Sequential Probability Ratio Test (SPRT)** and **mSPRT** to analyze co
 - Goal: evaluate whether a new page design leads to higher conversion rates compared to the old design  
 - Methods: sequential testing, hypothesis evaluation, visualization of test statistics  
 
-File: `abtest_sequential.ipynb`
+File: `abht_sequential.ipynb.ipynb`
 
 ---
 
@@ -22,7 +22,7 @@ Studied whether **smokers leave larger tips** than non-smokers using the classic
 - Goal: evaluate treatment effect of smoking status on tips  
 - Methods: propensity score matching, group comparison, visualization  
 
-File: `causal_inference_tips.ipynb`
+File: `nabht-casualinference_1.ipynb`
 
 ---
 
